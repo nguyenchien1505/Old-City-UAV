@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: c883b1dd5d4db44499885def76110685
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164400
+  packageName: Polyzero Free Procedural Power Line Generator
+  packageVersion: 1.0
+  assetPath: Assets/Polyzero/ElectricCables/Demo/Textures/Electric_pole_BaseMap.png
+  uploadId: 912116
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,10 +135,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 164400
-  packageName: Polyzero Free Procedural Power Line Generator
-  packageVersion: 1.0
-  assetPath: Assets/Polyzero/ElectricCables/Demo/Textures/Electric_pole_BaseMap.png
-  uploadId: 912116
