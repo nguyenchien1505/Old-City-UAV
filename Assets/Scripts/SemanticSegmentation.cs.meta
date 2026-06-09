@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 369b49b3a3f36ec4084a2ebebba5ab84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buildingMat: {fileID: 2100000, guid: 3d19d85044fa83b479e6758f04a3e0e8, type: 2}
+  - treeMat: {fileID: 2100000, guid: f29dcaa39fc4bba43a1f4c2feae15a33, type: 2}
+  - vehicleMat: {fileID: 2100000, guid: f489bb4cb6846994ca06514597579011, type: 2}
+  - groundMat: {fileID: 2100000, guid: 9e0dbd3b9804f2142aabb747529f8810, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
